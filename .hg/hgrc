@@ -1,0 +1,6 @@
+[paths]
+default = https://bitbucket.org/avelino/post_py_upload_de_arquivo_no_gae
+
+[ui]
+username = Thiago Avelino <thiago@avelino.us>
+verbose = True
